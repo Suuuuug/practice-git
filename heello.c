@@ -5,6 +5,7 @@ int main()
     scanf("%d", &a);
     printf("%d", a);
     printf("change");
+    printf("change22");
 
     return 0;
 }
